@@ -1,5 +1,7 @@
 ## Welcome to Thirty Minutes to Merge
 
+
+bug fix line 4
 A project based learning activity for people who are getting started with branching with Git.
 
 You can play the game at:  https://aaugustine.github.io/thirty-minutes-to-merge/
